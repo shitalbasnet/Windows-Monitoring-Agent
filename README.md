@@ -116,13 +116,15 @@ The monitoring agent continuously scans the system every few seconds and reports
 
 ## Sample Output
 
+<img width="1089" height="179" alt="Screenshot 2026-07-14 161541" src="https://github.com/user-attachments/assets/9b3be7c7-ec11-46d2-a5cc-d082cf7636e9" />
 
 
 ## Screenshots
 
 ### Process Monitoring
 
-(Add screenshot here)
+<img width="1166" height="528" alt="image" src="https://github.com/user-attachments/assets/b1159274-fb4d-4e38-93d6-c45816a96c23" />
+
 
 ### Service Monitoring
 
