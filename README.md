@@ -130,7 +130,7 @@ The monitoring agent continuously scans the system every few seconds and reports
 
 
 ### Parent-Child Detection
-![Main Monitoring Output](Screenshots/parent_child_detection_monitor.png)
+![Main Monitoring Output](Screenshots/parent_child_detection.png)
 
 
 ### Alert Log
