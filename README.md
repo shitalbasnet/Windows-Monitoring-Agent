@@ -116,7 +116,7 @@ The monitoring agent continuously scans the system every few seconds and reports
 
 ## Sample Output
 
-
+![Main Monitoring Output](Screenshots/output.png)
 
 
 ## Screenshots
