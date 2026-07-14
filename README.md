@@ -122,19 +122,19 @@ The monitoring agent continuously scans the system every few seconds and reports
 ## Screenshots
 
 ### Process Monitoring
-
+![Main Monitoring Output](process_monitor.png)
 
 
 ### Service Monitoring
-
+![Main Monitoring Output](service_monitor.png)
 
 
 ### Parent-Child Detection
-
+![Main Monitoring Output](parent_child_detection_monitor.png)
 
 
 ### Alert Log
-
+![Main Monitoring Output](alert.png)
 
 
 ---
